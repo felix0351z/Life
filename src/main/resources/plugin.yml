@@ -1,0 +1,12 @@
+name: Life
+version: 1.0
+main: de.felix0351.life.Plugin
+api-version: 1.20
+website: https://github.com/felix0351z
+depend: [KotlinBukkitLib, ProtocolLib]
+
+commands:
+  team:
+
+  chest:
+
